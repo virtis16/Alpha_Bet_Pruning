@@ -1,1 +1,1 @@
-# Alpha_Bet_Pruning
+# Alpha_Beta_Pruning
